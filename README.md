@@ -1,2 +1,0 @@
-# EasyLife
-Application
